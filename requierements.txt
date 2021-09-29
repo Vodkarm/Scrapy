@@ -1,0 +1,3 @@
+pycenter
+colorama
+requests
